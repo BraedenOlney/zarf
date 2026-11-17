@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/zarf-dev/zarf/compare/v1.0.1...v1.0.2) (2026-11-17)
+
+
+### Bug Fixes
+
+* count node items when sizing registry HPA replicas ([#5641](https://github.com/zarf-dev/zarf/issues/5641)) ([6f444bd](https://github.com/zarf-dev/zarf/commit/6f444bd568a2999856e97d08096d6f5bdb675d8e))
+* paginate registry tag listings ([#5676](https://github.com/zarf-dev/zarf/issues/5676)) ([d9c2a2f](https://github.com/zarf-dev/zarf/commit/d9c2a2fe78dff2c6ab85b92e943001a5d0855121))
+
 ## [1.0.1](https://github.com/zarf-dev/zarf/compare/v1.0.0...v1.0.1) (2026-11-11)
 
 
